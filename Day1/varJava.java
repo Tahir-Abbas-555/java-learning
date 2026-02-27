@@ -1,5 +1,5 @@
 public class varJava {
-    public static void main(Strings[] args){
+    public static void main(String[] args){
 
         int myNum = 5;
         float myFloatNum = 5.99f;
