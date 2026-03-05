@@ -1,3 +1,4 @@
+package Day5;
 public class methodsJava {
     static void table(int number){ 
 
